@@ -5,3 +5,4 @@ func solution(_ arr:[Int]) -> Double {
     return Double(sum) / Double(arr.count)
     
 }
+// https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=swift
