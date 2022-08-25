@@ -1,4 +1,5 @@
 # Programmers
 Programmers study
 
-하루 한개 알고리즘 문제 풀기!
+22. 08. 25 ( 수박수박 )
+https://school.programmers.co.kr/learn/courses/30/lessons/12922
